@@ -1,0 +1,3 @@
+Hoisting
+Hoisting occurs when the type 'var' is used. this type vil allways be hoisted to the start of the function from where it is contained. This means the declaration of the reference is made at the beginning of the function, and will be accessible for reference calls even if it hasnt been initialized. it will first be initialized when the script reaches the initialization of it.
+To avoid errors it is advised to declare all 'var' types at the beggining of the function.
